@@ -24,9 +24,9 @@ The Hospital dataset from kaggle
 ![DA2](https://github.com/user-attachments/assets/be35c370-d0cd-41a1-9210-a864528b3dcc)
 ![DA1](https://github.com/user-attachments/assets/38adc5e5-fd97-45a4-8c6c-cf0b88a7fdcd)
 ## Insights & Recommendations:
-Some departments have longer recovery times → Investigate causes
-High cost conditions identified → Optimize treatment plans
-Senior patients have longer stays → Enhance follow-up care
+1. Some departments have longer recovery times → Investigate causes.
+2. High cost conditions identified → Optimize treatment plans.
+3. Senior patients have longer stays → Enhance follow-up care.
 ## Conclusion:
 Outcome:
 A clean, interactive dashboard providing actionable insights for hospital management.
