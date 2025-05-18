@@ -29,6 +29,6 @@ The Hospital dataset from kaggle
 3. Senior patients have longer stays → Enhance follow-up care.
 ## Conclusion:
 Outcome:
-A clean, interactive dashboard providing actionable insights for hospital management.
+A  clean, interactive dashboard providing actionable insights for hospital management.
 
 
